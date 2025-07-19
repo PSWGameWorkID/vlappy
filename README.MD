@@ -1,10 +1,9 @@
 # ![Icon](assets/icon.png) Vlappy Bird
 A simple flappy bird clone made using V and raylib
 
-<center>
-<img src="screenshot/1.png" width=300 alt="screenshot 1"/>
-<img src="screenshot/2.png" width=300 alt="screenshot 2"/>
-</center>
+<div style="text-align:center">
+<img src="screenshot/1.png" width=300 alt="screenshot 1"/><img src="screenshot/2.png" width=300 alt="screenshot 2"/>
+</div>
 
 ## How to play
 Press `[Space]` to flap higher
